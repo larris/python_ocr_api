@@ -1,4 +1,3 @@
-# Docker OSX Install
 
 Build the container and run the image...
 
