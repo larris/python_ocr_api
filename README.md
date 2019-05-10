@@ -20,7 +20,7 @@ or postman
 ```https://www.getpostman.com```
 
 and point to ```localhost/ocr```.
-Add the the JSON parameters
+Add the JSON parameters
 ```
 {
 	"image_url" : "<IMAGE URL>",
@@ -28,4 +28,4 @@ Add the the JSON parameters
 }
 ```
 If the lang parameter is not specified it will only convert english ocr.
-Examplw urls ar on /test forder
+Example urls ar on /test forder
